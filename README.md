@@ -13,7 +13,7 @@ Reddox is a tool to convert subreddit posts to a markdown file (to a pdf file)
 ```
 git clone git@github.com:Ayman-s-Lab/reddox.git
 cd reddox/
-pip install beautifulsoup4 grip
+pip install -r requirements.txt
 ```
 ### Usage
 ```bash
